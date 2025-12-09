@@ -35,5 +35,20 @@ namespace BlazorApp.Application.Controllers
 
             return CreatedAtAction(nameof(Get), new { id = product.Id }, product);
         }
+
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var product = await _repo.GetByIdAsync(id);
+
+            if (product == null)
+                return NotFound();
+
+            _repo.Delete(product);
+            await _repo.SaveChangesAsync();
+
+            return NoContent(); // 204 response
+        }
+
     }
 }
