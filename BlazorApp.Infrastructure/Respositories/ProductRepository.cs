@@ -1,6 +1,7 @@
 ﻿using BlazorApp.Domain.Repositories;
 using BlazorApp.Domain;
 using BlazorApp.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlazorApp.Infrastructure.Repositories
 {
@@ -11,6 +12,11 @@ namespace BlazorApp.Infrastructure.Repositories
         public ProductRepository(AppDbContext context)
         {
             _context = context;
+        }
+
+        public async Task<List<Product>> GetAllByAsync()
+        {
+            return await _context.Products.ToListAsync();
         }
 
         public async Task<Product?> GetByIdAsync(int id)

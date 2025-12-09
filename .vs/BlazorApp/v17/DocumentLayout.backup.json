@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|c:\\users\\matthew.hauber_fatho\\source\\repos\\blazorapp\\blazorapp\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|solutionrelative:blazorapp\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|c:\\users\\matthew.hauber_fatho\\source\\repos\\blazorapp\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|solutionrelative:blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|c:\\users\\matthew.hauber_fatho\\source\\repos\\blazorapp\\blazorapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|solutionrelative:blazorapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|c:\\users\\matthew.hauber_fatho\\source\\repos\\blazorapp\\blazorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{339AC48C-8052-43D0-917B-F522B0312B31}|BlazorApp\\BlazorApp.Application.csproj|solutionrelative:blazorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BlazorApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:01:59.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T05:58:53.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Program.cs",
               "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
               "ToolTip": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Program.cs",
               "RelativeToolTip": "BlazorApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T04:28:56.64Z",
+              "WhenOpened": "2025-12-09T05:49:57.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Components\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\matthew.hauber_fatho\\source\\repos\\BlazorApp\\BlazorApp\\Components\\Pages\\Products.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Products.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:35:12.803Z",
               "EditorCaption": ""
             }
           ]

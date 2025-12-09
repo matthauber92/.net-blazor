@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BlazorApp.Application.Controllers
 {
+    [IgnoreAntiforgeryToken]
     [ApiController]
     [Route("api/[controller]")]
     public class ProductsController : ControllerBase
