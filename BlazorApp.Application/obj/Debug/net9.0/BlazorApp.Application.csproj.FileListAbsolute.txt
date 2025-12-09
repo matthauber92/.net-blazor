@@ -8,6 +8,7 @@ C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\D
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\Debug\net9.0\BlazorApp.Application.AssemblyInfoInputs.cache
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\Debug\net9.0\BlazorApp.Application.AssemblyInfo.cs
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\Debug\net9.0\BlazorApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\Debug\net9.0\BlazorApp.Application.sourcelink.json
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\Debug\net9.0\BlazorAp.4AE2F6DC.Up2Date
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\Debug\net9.0\BlazorApp.Application.dll
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp.Application\obj\Debug\net9.0\refint\BlazorApp.Application.dll

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9658949d-3447-41aa-a09b-53ff51c8e2b9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c99899b46e13c6b5016c4e54008ad88ee673a572")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

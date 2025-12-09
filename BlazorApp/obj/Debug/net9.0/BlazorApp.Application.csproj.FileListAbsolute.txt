@@ -1,10 +1,3 @@
-C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.csproj.AssemblyReference.cache
-C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.AssemblyInfoInputs.cache
-C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.AssemblyInfo.cs
-C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.csproj.CoreCompileInputs.cache
-C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\appsettings.json
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\BlazorApp.Application.staticwebassets.runtime.json
@@ -32,6 +25,14 @@ C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\BlazorApp.Infrastructure.dll
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\BlazorApp.Infrastructure.pdb
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\BlazorApp.Domain.pdb
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.csproj.AssemblyReference.cache
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.AssemblyInfoInputs.cache
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.AssemblyInfo.cs
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.sourcelink.json
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -97,3 +98,9 @@ C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.pdb
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.genruntimeconfig.cache
 C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\ref\BlazorApp.Application.dll
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matthew.hauber_fatho\source\repos\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.Application.MvcApplicationPartsAssemblyInfo.cs
